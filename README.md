@@ -1,5 +1,5 @@
 # upython_apds9930
-micropython project using apds9930
+micropython project using [apds9930](https://docs.broadcom.com/docs/AV02-3190EN)
 using Node MCU ESP8266 micropython port 
 ![board setup](apds9930_NodeMCU_esp8266.jpg)
 
